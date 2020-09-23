@@ -11,3 +11,5 @@
 ## Memory-based methods
 
 ## Optimization-based methods
+
+## Applications
