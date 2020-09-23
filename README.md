@@ -12,4 +12,6 @@
 
 ## Optimization-based methods
 
+## Meta reinforcement learning
+
 ## Applications
